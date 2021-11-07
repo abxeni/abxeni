@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abxeni
+- 👋 Hi, I’m abxeni
 - 👀 I’m interested in cloud computing, Web Development and DevOps.
 - 🌱 I’m currently learning Python and DevOps
 - 💞️ I’m looking to collaborate on some interesting projects.
